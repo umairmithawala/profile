@@ -1,0 +1,103 @@
+				<!-- Start Pricing
+		============================================= -->
+				<div class="price-area de-padding" id="hire">
+					<div class="container">
+						<!-- start container -->
+						<div class="site-title text-center">
+							<span class="top-title wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".3s">
+								My Price
+							</span>
+							<h2 class="site-tl wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".5s">
+								How Much I Charge?
+							</h2>
+						</div>
+						<div class="price-wrapper grid-3">
+							<!-- start price-area -->
+							<div class="price-box mt-20 wow fadeInLeft" data-wow-duration=".5s" data-wow-delay=".5s">
+								<!-- single price -->
+								<div class="price-head">
+									<div class="price-icon price-icon-one">
+										<i class="icofont-package"></i>
+									</div>
+									<div class="price-rib">
+										<span> Designing </span>
+									</div>
+									<div class="price-value">
+										Starting at<h2><span>$</span>99</h2>
+									</div>
+								</div>
+								<div class="price-info">
+									<ul>
+										<li><i class="icofont-check"></i> Logo Design</li>
+										<li><i class="icofont-check"></i> UI/UX Design </li>
+										<li><i class="icofont-check"></i> Web Design </li>
+										<li><i class="icofont-check"></i> Availabe On Freelancing </li>
+										<li><i class="icofont-check"></i> 24*7 Hours Support </li>
+									</ul>
+								</div>
+								<div class="price-bottom">
+									<a href="#contact" class="btn-2">
+										Hire me
+									</a>
+								</div>
+							</div> <!-- end single price -->
+							<div class="price-box mt-20 wow fadeInUp" data-wow-duration=".6s" data-wow-delay=".6s">
+								<!-- single price -->
+								<div class="price-head">
+									<div class="price-icon price-icon-two">
+										<i class="far fa-file-code"></i>
+									</div>
+									<div class="price-rib">
+										<span> Web Development </span>
+									</div>
+									<div class="price-value">
+										Starting at<h2><span>$</span>299</h2>
+									</div>
+								</div>
+								<div class="price-info">
+									<ul>
+										<li><i class="icofont-check"></i> Mobile App Development</li>
+										<li><i class="icofont-check"></i> NodeJs Projects </li>
+										<li><i class="icofont-check"></i> PHP Project </li>
+										<li><i class="icofont-check"></i> Availabe on Freelancing </li>
+										<li><i class="icofont-check"></i> 24*7 Hours Support</li>
+									</ul>
+								</div>
+								<div class="price-bottom">
+									<a href="#contact" class="btn-2 bt-ac">
+										Hire me
+									</a>
+								</div>
+							</div> <!-- end single price -->
+							<div class="price-box mt-20 wow fadeInRight" data-wow-duration=".5s" data-wow-delay=".5s">
+								<!-- single price -->
+								<div class="price-head">
+									<div class="price-icon price-icon-three">
+										<i class="fab fa-wordpress-simple"></i>
+									</div>
+									<div class="price-rib">
+										<span>Wordpress Solution</span>
+									</div>
+									<div class="price-value">
+										Starting at<h2><span>$</span>199</h2>
+									</div>
+								</div>
+								<div class="price-info">
+									<ul>
+										<li><i class="icofont-check"></i>Woocommerce Store</li>
+										<li><i class="icofont-check"></i>Plugin Customization</li>
+										<li><i class="icofont-check"></i>PSD to Woocommerce</li>
+										<li><i class="icofont-check"></i> Availabe on Freelancing </li>
+										<li><i class="icofont-check"></i> 24*7 Hours Support</li>
+									</ul>
+								</div>
+								<div class="price-bottom">
+									<a href="#contact" class="btn-2">
+										Hire me
+									</a>
+								</div>
+							</div> <!-- end single price-->
+						</div> <!-- end price-area -->
+					</div> <!-- end container -->
+				</div>
+				<!-- End Pricing -->
